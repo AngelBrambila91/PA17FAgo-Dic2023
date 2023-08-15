@@ -1,0 +1,15 @@
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/angelbrambila/Documents/PA17FAgo-Dic2023/1P/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
