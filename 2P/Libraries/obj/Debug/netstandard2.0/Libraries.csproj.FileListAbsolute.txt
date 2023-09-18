@@ -1,0 +1,10 @@
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/Libraries/obj/Debug/netstandard2.0/Libraries.csproj.AssemblyReference.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/Libraries/obj/Debug/netstandard2.0/Libraries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/Libraries/obj/Debug/netstandard2.0/Libraries.AssemblyInfoInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/Libraries/obj/Debug/netstandard2.0/Libraries.AssemblyInfo.cs
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/Libraries/obj/Debug/netstandard2.0/Libraries.csproj.CoreCompileInputs.cache
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/Libraries/bin/Debug/netstandard2.0/Libraries.deps.json
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/Libraries/bin/Debug/netstandard2.0/Libraries.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/Libraries/bin/Debug/netstandard2.0/Libraries.pdb
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/Libraries/obj/Debug/netstandard2.0/Libraries.dll
+/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/Libraries/obj/Debug/netstandard2.0/Libraries.pdb
