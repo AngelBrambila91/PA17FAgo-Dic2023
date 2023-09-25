@@ -2,6 +2,7 @@
 
 public class Person
 {
+    public delegate int DelegateWithMatchingSignature (string s);
     // members
     // constant, read -onlys, events
     /* Constant : Once declared and 
@@ -30,4 +31,30 @@ public class Person
     // members
     public string? Name;
     public DateTime DateOfBirth;
+    // Delegates
+    public int MethodIWantToCall(string input)
+    {
+        return input.Length;
+    }
+
+    // 1st Step, Event Handler
+    public delegate void EventHandler (object? sender, EventArgs e);
+
+    // delegate field
+    public EventHandler? Shout;
+    // Data Field for delegate
+    public int AngerLevel;
+    public void Poke()
+    {
+        AngerLevel++;
+        if(AngerLevel >= 3)
+        {
+            // if something is listening
+            if(Shout != null)
+            {
+                // then call the delegate
+                Shout(this, EventArgs.Empty);
+            }
+        }
+    }
 }
