@@ -39,7 +39,7 @@ public class Person
     
     // members
     [XmlAttribute("fname")]
-    public string? Name;
+    public string? Name { set; get; }
     [XmlAttribute("lname")]
     public string? LastName { get; set; }
     [XmlAttribute("dob")]
