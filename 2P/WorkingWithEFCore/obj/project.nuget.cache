@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xtcykw3aQ5Mqp9spvktRdcvsTlougvLmLNQ1fjDvUwS62lCcChOWc0Eru34VVAawEam702WWiacUodLmtupQ7w==",
+  "dgSpecHash": "MTG4Uq9dL6QgmmWVnWc7ZTF6beEpVjXcx1roD3n/90wnbeYZ0zkvLPztW1HPNr4xjll8eZ84rInermzv5NpOKA==",
   "success": true,
-  "projectFilePath": "/Users/angelbrambila/Documents/Ceti/Ago-Dic 2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/WorkingWithEFCore.csproj",
+  "projectFilePath": "/Users/angelbrambila/Documents/Ceti/Ago-Dic2023/PA17FAgo-Dic2023/2P/WorkingWithEFCore/WorkingWithEFCore.csproj",
   "expectedPackageFiles": [
     "/Users/angelbrambila/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/angelbrambila/.nuget/packages/microsoft.data.sqlite.core/7.0.12/microsoft.data.sqlite.core.7.0.12.nupkg.sha512",
