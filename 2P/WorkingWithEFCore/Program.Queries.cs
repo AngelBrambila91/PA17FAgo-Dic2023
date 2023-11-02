@@ -14,8 +14,9 @@ partial class Program
             // Products COUNT
 
             // All queries must be a IQueryable object
-            IQueryable<Category> categories = db.Categories!
-            .Include(category => category.Products);
+            IQueryable<Category> categories = db.Categories;
+            //.Include(category => category.Products);
+            db.ChangeTracker.LazyLoadingEnabled = false;
             if ((categories is null) || !categories.Any())
             {
                 Fail("No categories found");
@@ -132,4 +133,31 @@ partial class Program
             }
         }
     }
+
+    static void GetRandomProduct()
+    {
+        using (Northwind db = new())
+        {
+            Sectiontitle("Get a Random product");
+            int? rowCount = db.Products.Count();
+            if(rowCount is null)
+            {
+                Fail("Products table is empty");
+                return; 
+            }
+            Product? p = db.Products?.
+            FirstOrDefault(p => p.ProductId == (int)(EF.Functions.Random() * rowCount));
+            if(p is null)
+            {
+                Fail("Product not found");
+                return;
+            }
+            WriteLine($"Random product: {p.ProductId} {p.ProductName}");
+        }
+    }
+
+    // Loads
+    // Eager Loading: Load data early -> Load all entities at start. -> All loaded , memory excess
+    // Lazy Loading: Load data automatically just before its needed. -> Memory efficient, if table is big enough it delays
+    // Explicit Loading: Load data manually
 }
